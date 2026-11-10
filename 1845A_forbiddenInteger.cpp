@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//My approach of solving this problem----> DO NOT USE GREEDY FOR THIS!
+
 // void solve()
 // {
 //     int n ;
